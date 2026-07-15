@@ -1,0 +1,101 @@
+﻿question,answer
+How do I create an account?,Select Sign Up and follow the email-verification process.
+Can you help me create an account?,Select Sign Up and follow the email-verification process.
+How do I verify an email address?,Open the verification email and select its verification link.
+Can you help me verify an email address?,Open the verification email and select its verification link.
+How do I missing verification email?,"Check spam, confirm the address, and request another verification message."
+Can you help me missing verification email?,"Check spam, confirm the address, and request another verification message."
+How do I log in?,Use the login page with your registered email and password.
+Can you help me log in?,Use the login page with your registered email and password.
+How do I reset a forgotten password?,Use Forgot Password to request a secure reset link.
+Can you help me reset a forgotten password?,Use Forgot Password to request a secure reset link.
+How do I enable two-factor authentication?,Open account security settings and follow the two-factor setup steps.
+Can you help me enable two-factor authentication?,Open account security settings and follow the two-factor setup steps.
+How do I recover from losing an authenticator?,Use recovery codes or the official account-recovery process.
+Can you help me recover from losing an authenticator?,Use recovery codes or the official account-recovery process.
+How do I change the account email?,Update it under account settings and complete any required verification.
+Can you help me change the account email?,Update it under account settings and complete any required verification.
+How do I delete an account?,Use the account-deletion option or contact support if administrator approval is required.
+Can you help me delete an account?,Use the account-deletion option or contact support if administrator approval is required.
+How do I create a workspace?,Select Create Workspace and enter the requested details.
+Can you help me create a workspace?,Select Create Workspace and enter the requested details.
+How do I invite a workspace member?,Open Members and send an invitation to the user's email address.
+Can you help me invite a workspace member?,Open Members and send an invitation to the user's email address.
+How do I remove a workspace member?,An authorized administrator can remove the member from workspace settings.
+Can you help me remove a workspace member?,An authorized administrator can remove the member from workspace settings.
+How do I change a user's role?,Use the member-management page if your permissions allow it.
+Can you help me change a user's role?,Use the member-management page if your permissions allow it.
+How do I create a project?,Use New Project and complete the required project settings.
+Can you help me create a project?,Use New Project and complete the required project settings.
+How do I archive a project?,Use the archive action in project settings.
+Can you help me archive a project?,Use the archive action in project settings.
+How do I restore an archived project?,Open the archived-project list and select Restore.
+Can you help me restore an archived project?,Open the archived-project list and select Restore.
+How do I delete a project?,Use the delete option after confirming the retention consequences.
+Can you help me delete a project?,Use the delete option after confirming the retention consequences.
+How do I recover a deleted project?,Recovery depends on the retention policy and whether deletion is permanent.
+Can you help me recover a deleted project?,Recovery depends on the retention policy and whether deletion is permanent.
+How do I upload a file?,Use the upload control or drag and drop into a supported area.
+Can you help me upload a file?,Use the upload control or drag and drop into a supported area.
+How do I fix a failed upload?,"Check the file size, format, connection, storage quota, and permissions."
+Can you help me fix a failed upload?,"Check the file size, format, connection, storage quota, and permissions."
+How do I export data?,Use the export function and select an available format.
+Can you help me export data?,Use the export function and select an available format.
+How do I import data?,Open the import tool and follow the template and mapping steps.
+Can you help me import data?,Open the import tool and follow the template and mapping steps.
+How do I understand rejected import rows?,"Review required fields, formats, duplicates, and the import error report."
+Can you help me understand rejected import rows?,"Review required fields, formats, duplicates, and the import error report."
+How do I create a backup?,Use the documented backup or export options available for your plan.
+Can you help me create a backup?,Use the documented backup or export options available for your plan.
+How do I view available plans?,Current plans and features are listed on the pricing page.
+Can you help me view available plans?,Current plans and features are listed on the pricing page.
+How do I upgrade a subscription?,Open Billing and select an available upgrade.
+Can you help me upgrade a subscription?,Open Billing and select an available upgrade.
+How do I downgrade a subscription?,Open Billing and review the effective date and feature consequences.
+Can you help me downgrade a subscription?,Open Billing and review the effective date and feature consequences.
+How do I cancel a subscription?,Use the cancellation option in Billing or contact the account owner.
+Can you help me cancel a subscription?,Use the cancellation option in Billing or contact the account owner.
+How do I request a refund?,Refund eligibility depends on the published billing policy.
+Can you help me request a refund?,Refund eligibility depends on the published billing policy.
+How do I download invoices?,Open Billing or Invoice History.
+Can you help me download invoices?,Open Billing or Invoice History.
+How do I change the payment method?,Open Billing and update the authorized payment method.
+Can you help me change the payment method?,Open Billing and update the authorized payment method.
+How do I resolve a failed payment?,"Verify payment details, limits, and billing address, or contact the payment provider."
+Can you help me resolve a failed payment?,"Verify payment details, limits, and billing address, or contact the payment provider."
+How do I understand seat billing?,Seat billing depends on active members and the plan's billing rules.
+Can you help me understand seat billing?,Seat billing depends on active members and the plan's billing rules.
+How do I check usage?,Open the usage or billing dashboard.
+Can you help me check usage?,Open the usage or billing dashboard.
+How do I handle a quota limit?,"The product may block new usage, charge overages, or request an upgrade."
+Can you help me handle a quota limit?,"The product may block new usage, charge overages, or request an upgrade."
+How do I create an API key?,Open developer or API settings and create a key if your plan and role permit it.
+Can you help me create an API key?,Open developer or API settings and create a key if your plan and role permit it.
+How do I store an API key safely?,"Store it in a secure secret manager or environment variable, never in public source code."
+Can you help me store an API key safely?,"Store it in a secure secret manager or environment variable, never in public source code."
+How do I revoke an API key?,Open API settings and revoke the compromised or unused key.
+Can you help me revoke an API key?,Open API settings and revoke the compromised or unused key.
+How do I resolve a 401 API error?,"Confirm authentication credentials, token validity, scopes, and request headers."
+Can you help me resolve a 401 API error?,"Confirm authentication credentials, token validity, scopes, and request headers."
+How do I resolve a 403 API error?,The authenticated identity may lack permission for the requested action.
+Can you help me resolve a 403 API error?,The authenticated identity may lack permission for the requested action.
+How do I resolve a 429 API error?,Reduce request frequency and follow the documented retry guidance.
+Can you help me resolve a 429 API error?,Reduce request frequency and follow the documented retry guidance.
+How do I configure webhooks?,"Create an endpoint, select events, and verify webhook signatures."
+Can you help me configure webhooks?,"Create an endpoint, select events, and verify webhook signatures."
+How do I fix a failing webhook?,"Check endpoint availability, response codes, timeouts, signatures, and retry logs."
+Can you help me fix a failing webhook?,"Check endpoint availability, response codes, timeouts, signatures, and retry logs."
+How do I connect an integration?,"Open Integrations, select the service, and authorize the requested permissions."
+Can you help me connect an integration?,"Open Integrations, select the service, and authorize the requested permissions."
+How do I disconnect an integration?,Open integration settings and select Disconnect or Revoke.
+Can you help me disconnect an integration?,Open integration settings and select Disconnect or Revoke.
+How do I set up single sign-on?,Use administrator security settings on an eligible plan and follow the SSO documentation.
+Can you help me set up single sign-on?,Use administrator security settings on an eligible plan and follow the SSO documentation.
+How do I view the audit log?,Use the administrator audit-log page and available filters.
+Can you help me view the audit log?,Use the administrator audit-log page and available filters.
+How do I check service status?,Use the official service-status page for incidents and maintenance.
+Can you help me check service status?,Use the official service-status page for incidents and maintenance.
+How do I report a bug?,"Use the support form and include reproducible steps, screenshots, and expected behavior."
+Can you help me report a bug?,"Use the support form and include reproducible steps, screenshots, and expected behavior."
+How do I contact human support?,Use the support portal or request a human agent through the available contact channel.
+Can you help me contact human support?,Use the support portal or request a human agent through the available contact channel.

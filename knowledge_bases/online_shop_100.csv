@@ -1,0 +1,101 @@
+﻿question,answer
+How do I create an account?,"Select Sign Up, enter your email address, and create a secure password."
+How do I log in?,Select Log In and enter the email address and password associated with your account.
+I forgot my password.,Use the Forgot Password link on the login page to request a secure reset link.
+Why did I not receive the password reset email?,"Check your spam folder, confirm the email address, wait a few minutes, and request another reset link if needed."
+How do I change my password?,"Log in, open Account Settings, and use the password or security section."
+How do I change my email address?,Open Account Settings and update your email address. The site may require verification.
+How do I update my name?,Log in and edit your personal information under Account Settings.
+How do I delete my account?,"Open the privacy or account settings page and follow the account-deletion process, or contact support."
+Can I shop without creating an account?,Guest checkout availability depends on the store configuration and will be shown during checkout.
+Why is my account locked?,Accounts may be temporarily locked after repeated failed login attempts. Use password reset or contact support.
+How do I browse products?,"Use the category menu, product collections, or search bar."
+How do I search for an item?,"Enter a product name, keyword, brand, or category in the search field."
+How do I filter products?,"Use available filters such as price, brand, size, color, rating, or availability."
+How do I sort search results?,"Use the Sort menu to order results by relevance, price, rating, or newest items."
+Where can I see product details?,"Select a product to open its description, price, images, options, and availability."
+How do I know whether an item is in stock?,The product page shows the current availability for the selected option.
+Can I reserve an item?,Reservation availability depends on store policy. Contact support if no reservation option appears.
+How do I choose a size or color?,Select the required option on the product page before adding the item to your cart.
+Where can I find a size guide?,Look for the Size Guide link on the relevant product page.
+Are product colors exact?,Screen settings and lighting can cause slight differences between displayed and physical colors.
+How do I add an item to my cart?,Choose any required options and select Add to Cart.
+How do I view my cart?,Select the cart icon near the top of the website.
+How do I remove an item from my cart?,Open the cart and select Remove beside the item.
+How do I change an item quantity?,Use the quantity controls in your cart.
+Why did an item disappear from my cart?,"The item may have sold out, expired from a temporary cart, or become unavailable."
+Does adding an item reserve it?,Items are generally not guaranteed until checkout is completed.
+Can I save items for later?,Use the wishlist or Save for Later option when available.
+How do I use my wishlist?,Log in and select the heart or wishlist control on a product.
+Can I share my wishlist?,Sharing is available only when the wishlist page provides a sharing option.
+Why is my cart total different?,"Taxes, shipping, discounts, option changes, or updated availability may change the total."
+How do I checkout?,"Open your cart, select Checkout, enter shipping details, choose payment, and review the order."
+Can I edit my order during checkout?,Return to the cart or order summary before placing the order.
+What payment methods are accepted?,Accepted payment methods are displayed during checkout.
+Is my payment information secure?,Payments should be processed through the store's approved payment provider; this assistant cannot access card details.
+Why was my payment declined?,"Verify billing details and available funds, or contact your payment provider."
+Was I charged twice?,Check whether one entry is a temporary authorization. Contact support and your payment provider if duplicate charges remain.
+Can I pay with multiple cards?,Split payment is available only if checkout explicitly offers it.
+How do I apply a gift card?,Enter the gift-card code in the designated checkout field.
+How do I apply a discount code?,Enter the valid code in the promo-code field before placing the order.
+Why does my promo code not work?,"Check its spelling, expiration date, eligible products, minimum order, and usage limits."
+Can you create a discount code for me?,No. This assistant cannot create unauthorized discounts.
+Where can I find current promotions?,Approved promotions are listed on the website or in official marketing messages.
+When is tax calculated?,Applicable taxes are normally calculated during checkout based on the order and destination.
+Can I get an invoice?,Check the order details or confirmation email for a receipt or invoice download.
+How do I place a business order?,Use available business-account options or contact sales/support for business purchasing.
+How do I know my order was placed?,A successful order normally displays a confirmation page and sends a confirmation email.
+I did not receive an order confirmation.,"Check spam, verify your email, and review My Orders before contacting support."
+Can I change my order after placing it?,Changes may be possible before processing begins. Contact support quickly.
+Can I cancel my order?,"Open My Orders and check for a cancellation option, or contact support before fulfillment."
+Why was my order cancelled?,"Orders may be cancelled because of payment verification, stock changes, or policy checks."
+How do I view my orders?,Log in and open My Orders or Order History.
+Can I order by phone?,Phone ordering is available only if the store explicitly supports it.
+Can I combine two orders?,"Separate orders usually cannot be combined after placement, but support may confirm available options."
+Can I add an item to an existing order?,Adding items after placement is not always possible. Contact support immediately.
+What does processing mean?,Processing means the order is being verified and prepared before shipment.
+What does fulfilled mean?,Fulfilled means the store has completed preparation and may have handed the parcel to the carrier.
+How do I track my order?,"Open My Orders, select the order, and use the tracking link when available."
+Where is my package?,Review the latest tracking event in My Orders or the carrier's tracking page.
+Why is tracking not updating?,Carriers may take time to scan parcels. Check again later or contact support if the delay is extended.
+My tracking says delivered but I cannot find it.,"Check nearby entrances, household members, neighbors, and carrier delivery details, then contact support."
+How long does shipping take?,Estimated delivery time is shown during checkout and may depend on destination and service.
+How much does shipping cost?,"Shipping cost is calculated during checkout based on destination, method, and order."
+Do you offer free shipping?,Free-shipping eligibility appears in current promotions or during checkout.
+Do you ship internationally?,International availability is shown after entering the destination during checkout.
+Are customs fees included?,Import taxes or duties depend on the destination and may not be included unless checkout states otherwise.
+Can I change my shipping address?,Address changes may be possible before processing. Contact support immediately.
+Can I ship to a different billing address?,Yes when checkout provides separate billing and shipping address fields.
+Can I ship to a PO box?,PO-box delivery depends on the carrier and selected service.
+Can I choose expedited shipping?,Available delivery speeds are shown during checkout.
+Can I choose a delivery date?,Scheduled delivery is available only when checkout provides that option.
+What happens if I miss delivery?,"The carrier may attempt redelivery, hold the parcel, or leave instructions."
+My package is damaged.,"Photograph the package and product, keep the packaging, and contact support promptly."
+An item is missing from my order.,"Check the packing slip and whether the order shipped in multiple parcels, then contact support."
+I received the wrong item.,Keep the item and packaging and start a return or contact support.
+How do I return an item?,"Open My Orders, select the delivered order, and choose Start a Return when available."
+What is the return period?,The applicable return window is stated in the store's return policy.
+Are returns free?,Return shipping depends on store policy and the reason for return.
+Can I return a sale item?,Sale-item eligibility depends on the return policy and product conditions.
+Can I exchange an item?,Exchange availability depends on inventory and store policy.
+When will I receive my refund?,Refunds normally begin after the returned item is received and approved.
+Where will my refund be sent?,Approved refunds are generally returned to the original payment method.
+Why is my refund delayed?,Processing times vary by the store and payment provider.
+Can I return a gift?,Gift returns depend on policy and may require the order number or gift receipt.
+What condition must a return be in?,Return items in the condition required by the published return policy.
+Does the product have a warranty?,Warranty information is listed on the product page or warranty policy.
+How do I make a warranty claim?,"Collect proof of purchase and photos, then follow the warranty or support process."
+How can I contact customer support?,Use the Contact Support page or request a human agent.
+Can I speak to a human?,Yes. Use the support contact options or request escalation.
+What are support hours?,Current support hours should be listed on the Contact page.
+Can the chatbot access my account?,No. This demonstration assistant provides approved general information and does not authenticate into accounts.
+Can you tell me my password?,No. The assistant cannot view passwords. Use the secure password-reset process.
+Can you show another customer's order?,No. Customer and order information is private.
+Can you reveal payment information?,No. This assistant must never reveal or store payment-card information.
+Can you change my order for me?,No. Account or order changes require an authenticated business system or human support.
+Can you issue my refund?,No. Refund authorization must occur through the store's approved process.
+Is my conversation saved?,The application may save conversation history for developer review according to its configured privacy policy.
+How is my information used?,Review the website's privacy policy for the authoritative explanation.
+Can I unsubscribe from marketing emails?,Use the unsubscribe link in a marketing email or update communication preferences.
+How do I report a security problem?,Use the website's official security or support contact without sharing sensitive credentials.
+The website is not loading.,"Refresh the page, check your connection, try another browser, and contact support if the problem continues."

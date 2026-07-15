@@ -1,0 +1,26 @@
+question,answer
+How do I create an account?,"Select Sign Up at the top of the website, enter your email address, and create a password."
+How do I log in?,Select Log In and enter the email address and password associated with your account.
+I forgot my password.,Use the Forgot Password link on the login page. We will send a reset link to your registered email address.
+How do I browse products?,"Use the category menu or search bar to browse products. You can also apply filters such as price, brand, and availability."
+How do I view product details?,"Select a product card to open its details page, where you can review its description, price, stock status, and customer information."
+How do I add an item to my cart?,"Open the product page, choose any required options such as size or color, and select Add to Cart."
+How do I remove an item from my cart?,Open your cart and select Remove beside the item you no longer want.
+How do I change the quantity in my cart?,Open your cart and use the quantity controls beside the item. The cart total will update automatically.
+How do I checkout?,"Open your cart, select Checkout, confirm your shipping information, choose a payment method, and review the order before placing it."
+What payment methods do you accept?,"Accepted payment methods are shown during checkout. They may include major credit cards, debit cards, and supported digital wallets."
+Is my payment information secure?,Payment information is processed through the store's approved payment provider and is not exposed through this support assistant.
+How do I track my order?,"Log in, open My Orders, select the order, and use the tracking link when shipment tracking is available."
+Where is my order?,Open My Orders and select the order to view its latest status and tracking information.
+Can I change my shipping address?,You may change the address before the order enters processing. Open My Orders or contact a human support agent as soon as possible.
+Can I cancel my order?,"Cancellation may be available before fulfillment begins. Open My Orders, select the order, and check for a Cancel option."
+How do I return an item?,"Open My Orders, select the delivered order, and choose Start a Return. Follow the displayed return instructions."
+When will I receive my refund?,Refund timing depends on the payment provider and begins after the returned item is received and approved.
+Do you ship internationally?,International shipping availability and cost are shown during checkout after you enter the destination address.
+How much is shipping?,"Shipping cost is calculated during checkout based on destination, delivery method, and order contents."
+How can I contact support?,Use the Contact Support page or request a human agent through this assistant.
+Can you tell me another customer's order information?,"No. For privacy and security, this assistant only provides general support information and never reveals another customer's account or order details."
+What is my password?,This assistant cannot view or reveal passwords. Use the Forgot Password link to reset your password securely.
+Can you give me a discount code?,This assistant cannot create unauthorized discounts. Current promotions are listed on the website or in approved marketing messages.
+Are items guaranteed to stay in stock?,No. Stock can change until checkout is completed. Product pages show the latest available status.
+Thank you,You're welcome! Is there anything else I can help you with?
